@@ -27,4 +27,3 @@ jobs:
       - name: view logs
         run: docker logs semcontainer
 
-
