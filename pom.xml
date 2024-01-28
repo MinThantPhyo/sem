@@ -10,6 +10,14 @@
     <maven.compiler.target>17</maven.compiler.target>
   </properties>
 
+  <dependencies>
+    <dependency>
+      <groupId>mysql</groupId>
+      <artifactId>mysql-connector-java</artifactId>
+      <version>8.0.25</version>
+    </dependency>
+  </dependencies>
+
 
   <name>Archetype - seMethods</name>
   <url>http://maven.apache.org</url>
