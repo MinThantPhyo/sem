@@ -5,3 +5,5 @@ hi test 2 again and again and again
 [![Releases](https://img.shields.io/github/release/MinThantPhyo/sem/all.svg?style=flat-square)](https://github.com/MinThantPhyo/sem/releases)
 # Software Engineering Methods
 ![GitHub Workflow Status (branch)](https://img.shields.io/github/workflow/status/MinThantPhyo/sem/main.yml/develop?style=flat-square)
+[![codecov](https://codecov.io/gh/MinThantPhyo/sem/graph/badge.svg?token=JEG5V5K21T)](https://codecov.io/gh/MinThantPhyo/sem)
+
