@@ -1,4 +1,4 @@
-hi test
+hi test hii
 hi test 2 again and again and again
 test agian
 ![workflow](https://github.com/MinThantPhyo/sem/actions/workflows/main.yml/badge.svg)
